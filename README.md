@@ -1,4 +1,5 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<img alt="Coder GIF"  height= 50 src = "https://github.com/tamerjb/tamerjb/blob/main/Hello.gif" /> </div>
+
 
 I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
