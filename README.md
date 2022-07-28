@@ -2,16 +2,22 @@
 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
-I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
+<h2 align="left">Connect with me:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-TamerJB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamerjb/)](https://www.linkedin.com/in/tamerjb/)
+
+<p align="center">
+<a href="https://linkedin.com/in/tamerjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamir jba" height="30" width="40" /></a>
+</p>
 [![Instagram Badge](https://img.shields.io/badge/-TamerJB-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tamerjb/)](https://instagram.com/tamerjb)
 [![Gmail Badge](https://img.shields.io/badge/-TamerJB.98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamerjb.98@gmail.com)](mailto:tamerjb.98@gmail.com)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
 
 
-## ⚡ Technologies
+
+<h2 align="left"> ⚡ Technologies:</h2>
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
