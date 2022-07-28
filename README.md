@@ -5,11 +5,13 @@
 I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
 <h2 align="left">⚡ Connect with me:</h2>
 
-
 <p align="left">
 <a href="https://linkedin.com/in/tamerjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamir jba"   height="30" width="40" /></a>
   &nbsp
  <a href="tomail:tamerjb.98@gmail.com"><img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
+   &nbsp
+ <a href="https://stackoverflow.com/users/17656831/tamerjb"><img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/1369864/57243772-84aeca00-6ffc-11e9-96d8-208315e070e8.png
+"></a>
 </p>
 
 <a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
