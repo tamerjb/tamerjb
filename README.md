@@ -12,8 +12,7 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
  <a href="tomail:tamerjb.98@gmail.com"><img  height="30" width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
 </p>
 
-<a><img src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
-![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
+<a align="center"><img src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
 
 
 
