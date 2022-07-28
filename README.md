@@ -23,5 +23,6 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
+![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
 
 
