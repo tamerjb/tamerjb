@@ -8,6 +8,9 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 [![Instagram Badge](https://img.shields.io/badge/-TamerJB-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tamerjb/)](https://instagram.com/tamerjb)
 [![Gmail Badge](https://img.shields.io/badge/-TamerJB.98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamerjb.98@gmail.com)](mailto:tamerjb.98@gmail.com)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
+
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,6 +26,5 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
-![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
 
 
