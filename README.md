@@ -6,11 +6,10 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 <h2 align="left">Connect with me:</h2>
 
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/tamerjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamir jba" height="30" width="40" /></a>
 </p>
-[![Instagram Badge](https://img.shields.io/badge/-TamerJB-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tamerjb/)](https://instagram.com/tamerjb)
-[![Gmail Badge](https://img.shields.io/badge/-TamerJB.98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamerjb.98@gmail.com)](mailto:tamerjb.98@gmail.com)
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tamerjb)
 
