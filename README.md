@@ -10,8 +10,7 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
   &nbsp
  <a href="tomail:tamerjb.98@gmail.com"><img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
    &nbsp
- <a href="https://stackoverflow.com/users/17656831/tamerjb"><img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/1369864/57243772-84aeca00-6ffc-11e9-96d8-208315e070e8.png
-"></a>
+ <a href="https://stackoverflow.com/users/17656831/tamerjb"><img align="center" height="30" width="40" src="https://w7.pngwing.com/pngs/711/325/png-transparent-stack-overflow-computer-icons-stack-exchange-logo-computer-software-economical-text-orange-stack.png"></a>
 </p>
 
 <a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
