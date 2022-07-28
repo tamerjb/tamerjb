@@ -1,6 +1,7 @@
 <img alt="Coder GIF"  height= 50 src = "https://github.com/tamerjb/tamerjb/blob/main/Hello.gif" /> </div>
 
 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
 I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-TamerJB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamerjb/)](https://www.linkedin.com/in/tamerjb/)
@@ -22,6 +23,5 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
 
 
