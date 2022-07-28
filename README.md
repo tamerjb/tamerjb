@@ -26,7 +26,7 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamerjb&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
-<img src="https://stackoverflow-card.vercel.app/?userID=17656831&theme=stackoverflow-dark" width="350" height="140"></img>
+<img src="https://stackoverflow-card.vercel.app/?userID=17656831" width="350" height="140"></img>
 
 
 
