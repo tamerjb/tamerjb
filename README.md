@@ -2,7 +2,7 @@
 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
-I am Tamir Jb, a Full Stack Web Dev Student At Practicum. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
+I am Tamir Jb, a Full Stack Web Dev Student At Practicum(By Yandex-MasterSchool). I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
 <h2 align="left">⚡ Connect with me:</h2>
 
 <p align="left">
