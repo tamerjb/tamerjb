@@ -12,7 +12,6 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum(By Yandex-MasterSchool)
    
 </p>
 
-<a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
 
 
 
@@ -27,6 +26,8 @@ I am Tamir Jb, a Full Stack Web Dev Student At Practicum(By Yandex-MasterSchool)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamerjb&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
 <img src="https://stackoverflow-card.vercel.app/?userID=17656831" width="350" height="140"></img>
+<a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
+
 
 
 
