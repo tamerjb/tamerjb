@@ -5,7 +5,7 @@
 I am Tamir Jb, a Full Stack Web Dev Student At Practicum(By Yandex-MasterSchool). I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
 <h2 align="left">⚡ Connect with me:</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/tamerjb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamir jba"   height="30" width="40" /></a>
   &nbsp
  <a href="mailto:tamerjb.98@gmail.com" target="_blank"><img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"/></a>
