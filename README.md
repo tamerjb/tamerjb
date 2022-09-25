@@ -2,7 +2,8 @@
 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
-I am Tamir Jb, a Full Stack Web Dev Student At Practicum(By Yandex-MasterSchool). I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. 
+
+"A tech enthusiast and high motivation to learn and grow as a Web Developer. Recently I strengthened my skills in this field during an exclusive program by Practicum100, and I am currently looking for my next challenge."
 <h2 align="left">⚡ Connect with me:</h2>
 
 <p align="center">
