@@ -1,7 +1,6 @@
 <img alt="Coder GIF"  height= 50 src = "https://github.com/tamerjb/tamerjb/blob/main/Hello.gif" /> </div>
 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=tamerjb/tamerjb)
 
 "A tech enthusiast and high motivation to learn and grow as a Web Developer. Recently I strengthened my skills in this field during an exclusive program by Practicum100, and I am currently looking for my next challenge."
 <h2 align="left">⚡ Connect with me:</h2>
