@@ -22,11 +22,11 @@
 <h2 align="left"> ⚡ Status:</h2>
 
 
-<a align="center">![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tamerjb&count_private=true&show_icons=true&include_all_commits=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamerjb&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamerjb&hide=TeX&layout=compact)
 <img src="https://stackoverflow-card.vercel.app/?userID=17656831" width="350" height="140"></img>
-<a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
+- <a ><img align="center" src="https://komarev.com/ghpvc/?username=tamerjb"></img></a>
 
 
 
